@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 originaldataCITES.csv
-file:///Users/nere/1.-ironhack/1-repos/Project-Web-Data-Pipeline/INPUTS/en-CITES_Trade_Database_Guide.pdf
+06-SpainWorkshop-GBIF-DataPortal.pdf
+originaldataCITES.csv
+en-CITES_Trade_Database_Guide.pdf
