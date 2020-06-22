@@ -85,12 +85,11 @@ And species should be called as follows:
 For a better understanding of the results, I add some basic information about the meaning of purpose and the source keywords of the outcome of the request
 
 ### PURPOSE
-
 ![Captura de pantalla 2020-06-22 a las 23.27.38](/assets/Captura%20de%20pantalla%202020-06-22%20a%20las%2023.27.38.png)
-
 ### SOURCE
 
-![Captura de pantalla 2020-06-22 a las 23.27.28](/assets/Captura%20de%20pantalla%202020-06-22%20a%20las%2023.27.28_qzf41p5zo.png)
+
+![Captura de pantalla 2020-06-22 a las 23.27.28](/assets/Captura%20de%20pantalla%202020-06-22%20a%20las%2023.27.28.png)
 
 The main results from the analysis can be found in the final report
 
