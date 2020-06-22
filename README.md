@@ -15,20 +15,24 @@ And, thus, with this in mind I proceeded to study data... maybe a little bit too
 Originally, the objectives of many analyses of CITES trade data were:
 ####
     - To monitor trade levels and identify where trade might adversely affect wild population
+
     - To assess whether the information supplied by each Party provides an accurate representation of its trade in CITES-listed species and whether the data were provided in sufficient detail to fulfil the requirements of CITES;
-    - To ascertain whether the available data provide evidence of trade infractions or inadequate enforcement of CITES and national regulations; 
+    - To ascertain whether the available data provide evidence of trade infractions or inadequate enforcement of 
+    CITES and national regulations; 
     - To discern the most important trade in terms of volume;
     - To provide a summary of major trade between countries and thus facilitate, over time, the analysis of trends in trade; 
     - To identify major anomalies in the reporting of imports and exports.
-                        CITES Trade Database - User guide, 2013
+                                                                            CITES Trade Database - User guide, 2013
 
 ## MY QUESTIONS
 
 For the purpose of this study I aimed to investigate:
        
     1. which countries were more frequently animal importers and which were mainly importers.
-    2. What was the purpose of the import and export of exotic animals (and for this, I excluded all data related to plants).
-    3. Also I was interested in knowing the source, the origin of these animals to be traded, so I also analysed these data.
+    2. What was the purpose of the import and export of exotic animals (and for this, I excluded all data related 
+    to plants).
+    3. Also I was interested in knowing the source, the origin of these animals to be traded, so I also analysed 
+    these data.
     4. Of course I was interested on the type of animals that were more frequently traded in 2016-2017,
 
 

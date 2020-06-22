@@ -2,11 +2,47 @@
 <hr
 
 
-Data provided for this study are quite recent, belonging mainly to 2016, and some of them, to 2017. For the purpose of this study I analysed …. main issues:
-       
-    1. To analyse which countries were more frequently animal importers and which were mainly importers.
-    2. To investigate the purpose of the import and export of exotic animals (and for this, I excluded all data related to plants).
-    3. Also I was interested in knowing the source, the origin of these animals to be traded, so I also analysed these data.
-    4. Of course I was interested on the type of animals that were more frequently traded in 2016-2017, and therefore I selected these data to be analysed.
-The rest of the information provided by CITES was discarded for this study, however, although original data were very complete, basic information regarding the order (i.e,(explanation)) and the phylum (i.e,(explanation)) of the animals was not provided. 
-In order to include some educational additional information, I cleaned and sorted the original dataset and I used NOMBRE DE LA API to obtain additional information of the already filtered and cleaned data to avoid repetitive requests that would not provide further information.
+Our results show that main trading interterest rely in Commercial purposes (T), followed by Personal interest (P), Scientific (S) and as Hunting Trophies (H)
+
+![MainTradingInterests](/assets/MainTradingInterests.png)
+
+
+The origin of the traded animals was varied: 
+
+Most of them were born in the wild (W), and closely followed by those born in Captivity(C), a 10% were born in captivity but they did not fulfilled the whole definition of being breed in captivity(F), a small part was composed of confiscated animals (I), reared in controlled environments (O).
+
+
+![source_animals](/assets/source_animals_m77odrlql.png)
+
+The most frequently traded species was, by far the nile crocodile, followed by one of the heaviest snakes, the reticulated python and the american alligator.
+
+![burmese-python-1569314_1920](/assets/burmese-python-1569314_1920_k9htm4htv.jpg)
+
+Also were common other types of reptiles a fish, the siberian strugeon, and, from mammiferes the African elephant and  the crab-eating macaque were the most traded.
+
+![TradesbySpecies](/assets/TradesbySpecies.png)
+
+
+
+![long-tailed-macaque-4501437_1920](/assets/long-tailed-macaque-4501437_1920.jpg)
+
+ Animals were mainly exported from Indonesia (ID), followed by Italy (It) and then by the US(US), France (FR), Denmark(DE), Australia (AU), Singapore(SG), Switzerland (CH) and the Netherlands(NL)
+
+
+
+
+![PERCENTEXPORTS](/assets/PERCENTEXPORTS_p8pb10gei.png)
+
+
+Finally, animals were mainly imported to US, followed by Japan, Hong Kong(HK), China(CN), France, Denmark, Switzerland and to United Arab Emirates(AE).
+
+![PERCENTIMPORTS](/assets/PERCENTIMPORTS_mokfhvl7s.png)
+
+
+
+You will be able to find dynamic information by Species by using the program I perfomed in order to find these data and also others related to their phylogenetical origins by using the main.py file and its associated functions on the terminal.
+
+Thanks for reading!
+
+![llama-74569_1280](/assets/llama-74569_1280.jpg)
+
