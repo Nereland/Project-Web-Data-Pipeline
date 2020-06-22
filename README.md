@@ -25,7 +25,7 @@ Originally, the objectives of many analyses of CITES trade data were:
     - To provide a summary of major trade between countries and thus facilitate, over time, the 
     analysis of trends in trade; 
     - To identify major anomalies in the reporting of imports and exports.
-                                                                            CITES Trade Database - User guide, 2013
+                                                            CITES Trade Database - User guide, 2013
 
 ## MY QUESTIONS
 
