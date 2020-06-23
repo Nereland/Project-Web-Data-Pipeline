@@ -1,7 +1,7 @@
 # Analysing the df
 import pandas as pd
 
-citescompleted = pd.read_csv("output/citescompleted.csv")
+citescompleted = pd.read_csv("../citescompleted.csv")
 
 def identif(col):
     for i in col:
